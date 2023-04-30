@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaFundAndroid</string>
+    <string name="contras">Contraseña</string>
+    <string name="usua">Usuario</string>
+    <string name="rec_usuario">Recordar usuario</string>
+    <string name="Ingresa">Ingresar</string>
+</resources>

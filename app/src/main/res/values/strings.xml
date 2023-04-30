@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PracticaFundAndroid</string>
+    <string name="contras">Password</string>
+    <string name="usua">User</string>
+    <string name="rec_usuario">Remember user</string>
+    <string name="Ingresa">Enter</string>
+
 </resources>
